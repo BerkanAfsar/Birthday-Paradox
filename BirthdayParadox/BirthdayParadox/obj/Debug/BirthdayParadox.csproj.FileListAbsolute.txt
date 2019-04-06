@@ -1,0 +1,9 @@
+C:\Users\BERKAN\Desktop\Proje-2 Yeni\BirthdayParadox\BirthdayParadox\bin\Debug\BirthdayParadox.exe.config
+C:\Users\BERKAN\Desktop\Proje-2 Yeni\BirthdayParadox\BirthdayParadox\bin\Debug\BirthdayParadox.exe
+C:\Users\BERKAN\Desktop\Proje-2 Yeni\BirthdayParadox\BirthdayParadox\bin\Debug\BirthdayParadox.pdb
+C:\Users\BERKAN\Desktop\Proje-2 Yeni\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.csprojResolveAssemblyReference.cache
+C:\Users\BERKAN\Desktop\Proje-2 Yeni\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.exe
+C:\Users\BERKAN\Desktop\Proje-2 Yeni\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.pdb
+D:\Data Structure Projeleri\Birthday Paradox\BirthdayParadox\BirthdayParadox\bin\Debug\BirthdayParadox.exe.config
+D:\Data Structure Projeleri\Birthday Paradox\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.exe
+D:\Data Structure Projeleri\Birthday Paradox\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.pdb
